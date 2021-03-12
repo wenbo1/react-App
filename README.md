@@ -26,4 +26,4 @@ npm run ip6
 ```
 
 ### 开发文档
-See [react-native](https://facebook.github.io/react-native/).
+[react-native](https://facebook.github.io/react-native/).
